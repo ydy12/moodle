@@ -1,34 +1,53 @@
-<?php
-// This file is part of Moodle - http://moodle.org/
-//
-// Moodle is free software: you can redistribute it and/or modify
-// it under the terms of the GNU General Public License as published by
-// the Free Software Foundation, either version 3 of the License, or
-// (at your option) any later version.
-//
-// Moodle is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
-//
-// You should have received a copy of the GNU General Public License
-// along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+跳到主要内容
+moodle
+首页
+个人主页
+我的课程
+站点管理
+2
+编辑模式
+ 
+折叠
+常规
+新闻通告
+test
+123
+折叠
+新章节
+test03
+折叠
+新章节
+折叠
+新章节
+折叠
+新章节
+高数
+常规
+123
 
-/**
- * Plugin version and other meta-data.
- *
- * @package    assignsubmission_gitrepo
- * @copyright  2024 Your Name
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
+123
+作业
+设置
+作业
+高级评分
+更多
+完成条件
+打开： 2026年03月23日 星期一 00:00
+到期日： 2026年03月30日 星期一 00:00
+差异查看器
+作业
+差异查看器
+3666a78
+Update README.md
+作者: ydy12 <115877298+ydy12@users.noreply.github.com>
 
-defined('MOODLE_INTERNAL') || die();
+日期: 2026年03月23日 11:38
 
-$plugin->version   = 2024120103;                // The current plugin version (Date: YYYYMMDDXX).
-$plugin->requires  = 2024100700;                // Requires Moodle 4.5.0+.
-$plugin->component = 'assignsubmission_gitrepo'; // Full name of the plugin.
-$plugin->maturity  = MATURITY_STABLE;
-$plugin->release   = '1.0.3';
-$plugin->dependencies = [
-    'mod_assign' => ANY_VERSION,
-];
+1 变更文件数+1 增加行数-0 删除行数
+变更文件数 (1)
+README.md修改
++1-0
+@@ -1,2 +1,3 @@
+ # moodle
+ test
++12323
